@@ -1,0 +1,2 @@
+# MySpot
+My Spot DB
